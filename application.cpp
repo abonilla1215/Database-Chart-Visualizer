@@ -1,25 +1,8 @@
-// Bar Chart Animation
-//
-// This application uses BarChartAnimate (which uses BarChart, which uses Bar)
-// to produce an animated bar chart.
-//
-// Once your three class/abstraction files are completed and tested, run with
-// this application to see your final creation.
-//
-// TO DO: Nothing for the standard application, just compile and run! However,
-// before submitting you need to add your creative component.
-//
-// Shanon Reckinger
-// U. of Illinois, Chicago
-// CS 251: Fall 2021
-//
-
 /*Alexus Bonilla
-Project 3 - Animated Bar Chart
-The purpose of of this program is to display data of in an animated 'bar
-format'. Each inputed data will have its own category which is then assigned to
+The purpose of of this program is to display data of an animated 'bar
+visualizer'. Each inputed data will have its own category which is then assigned to
 its own unique color. When the program is ran, it will display all the data in
-an animated format. NOTE-- I did NOT add a creative component.
+an animated format.
   */
 #include "barchartanimate.h"
 #include <fstream>
