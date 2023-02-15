@@ -1,12 +1,6 @@
 // barchartanimate.h
 /*
 Alexus Bonilla
-Animated Bar Chart
-The purpose of of this program is to display data of in an animated 'bar
-format'. Each inputed data will have its own category which is then assigned to
-its own unique color. When the program is ran, it will display all the data in
-an animated format.
-
 'barchartanimate.h' is to take all the 'bar charts' and animate them in the
 console. In the application, the file containing the data will be read and
 during that process, 'barchartanimate.h' will parse through every line, assign
